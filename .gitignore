@@ -1,0 +1,9 @@
+## File extensions
+*.cproject
+*.project
+
+## Folders
+**/.svn
+**/.settings
+**/Debug
+**/Release
