@@ -1,0 +1,4 @@
+# Set the default indentation and tab size
+[*.{c,h}]
+indent_style = tab
+indent_size = 4
